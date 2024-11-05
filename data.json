@@ -1,5 +1,5 @@
 {
-  "override_votes": true,
+  "override_votes": false,
   "overridden_dem": 20,
   "overridden_rep": 50
 }
